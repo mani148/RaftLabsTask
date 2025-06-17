@@ -1,0 +1,248 @@
+{
+  "properties": [
+    {
+      "id": "1",
+      "title": "Modern Downtown Apartment",
+      "price": 2500,
+      "location": {
+        "address": "123 Main St",
+        "city": "San Francisco",
+        "state": "CA",
+        "coordinates": {
+          "latitude": 37.7749,
+          "longitude": -122.4194
+        }
+      },
+      "features": [
+        "2 Bedrooms",
+        "2 Bathrooms",
+        "Parking",
+        "Pool"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+        "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+        "https://images.unsplash.com/photo-1560185893-a55cbc8c57e8"
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Luxury Beach House",
+      "price": 5000,
+      "location": {
+        "address": "456 Ocean Ave",
+        "city": "Malibu",
+        "state": "CA",
+        "coordinates": {
+          "latitude": 34.0259,
+          "longitude": -118.7798
+        }
+      },
+      "features": [
+        "4 Bedrooms",
+        "3 Bathrooms",
+        "Beachfront",
+        "Private Pool"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1512917774080-9991f1c4c750",
+        "https://images.unsplash.com/photo-1613490493576-7fde63acd811"
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Cozy Mountain Cabin",
+      "price": 1800,
+      "location": {
+        "address": "789 Pine Trail",
+        "city": "Aspen",
+        "state": "CO",
+        "coordinates": {
+          "latitude": 39.1911,
+          "longitude": -106.8175
+        }
+      },
+      "features": [
+        "3 Bedrooms",
+        "2 Bathrooms",
+        "Fireplace",
+        "Hot Tub"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
+        "https://images.unsplash.com/photo-1600607687920-c2c0fd5d83fa"
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Modern Urban Loft",
+      "price": 3000,
+      "location": {
+        "address": "321 Elm St",
+        "city": "New York",
+        "state": "NY",
+        "coordinates": {
+          "latitude": 40.7128,
+          "longitude": -74.006
+        }
+      },
+      "features": [
+        "1 Bedroom",
+        "1 Bathroom",
+        "High Ceiling",
+        "Open Kitchen"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1588854337110-5d4c85e4ed5e"
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Charming Country House",
+      "price": 2200,
+      "location": {
+        "address": "789 Oak Rd",
+        "city": "Nashville",
+        "state": "TN",
+        "coordinates": {
+          "latitude": 36.1627,
+          "longitude": -86.7816
+        }
+      },
+      "features": [
+        "2 Bedrooms",
+        "1 Bathroom",
+        "Porch",
+        "Large Yard"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1580587771525-78b9dba3b914"
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Downtown Condo",
+      "price": 2600,
+      "location": {
+        "address": "456 Market St",
+        "city": "Chicago",
+        "state": "IL",
+        "coordinates": {
+          "latitude": 41.8781,
+          "longitude": -87.6298
+        }
+      },
+      "features": [
+        "2 Bedrooms",
+        "2 Bathrooms",
+        "City View",
+        "Balcony"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1600585154315-025e6f7d1d87"
+      ]
+    },
+    {
+      "id": "7",
+      "title": "Lakefront Cottage",
+      "price": 1900,
+      "location": {
+        "address": "111 Lakeview Ln",
+        "city": "Lake Tahoe",
+        "state": "CA",
+        "coordinates": {
+          "latitude": 39.0968,
+          "longitude": -120.0324
+        }
+      },
+      "features": [
+        "3 Bedrooms",
+        "2 Bathrooms",
+        "Lake Access",
+        "Deck"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267"
+      ]
+    },
+    {
+      "id": "8",
+      "title": "Minimalist Studio",
+      "price": 1500,
+      "location": {
+        "address": "99 Minimal Way",
+        "city": "Portland",
+        "state": "OR",
+        "coordinates": {
+          "latitude": 45.5152,
+          "longitude": -122.6784
+        }
+      },
+      "features": [
+        "Studio",
+        "1 Bathroom",
+        "Compact Kitchen"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1580587771525-78b9dba3b914"
+      ]
+    },
+    {
+      "id": "9",
+      "title": "Luxury Penthouse",
+      "price": 8000,
+      "location": {
+        "address": "1 Sky Tower",
+        "city": "Los Angeles",
+        "state": "CA",
+        "coordinates": {
+          "latitude": 34.0522,
+          "longitude": -118.2437
+        }
+      },
+      "features": [
+        "5 Bedrooms",
+        "5 Bathrooms",
+        "Infinity Pool",
+        "Private Elevator"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1613490493576-7fde63acd811"
+      ]
+    },
+    {
+      "id": "10",
+      "title": "Historic Victorian Home",
+      "price": 2800,
+      "location": {
+        "address": "222 Heritage Ln",
+        "city": "Savannah",
+        "state": "GA",
+        "coordinates": {
+          "latitude": 32.0809,
+          "longitude": -81.0912
+        }
+      },
+      "features": [
+        "4 Bedrooms",
+        "3 Bathrooms",
+        "Wraparound Porch",
+        "Antique Finish"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2"
+      ]
+    }
+  ],
+  "bookings": [
+   
+  ],
+  "profile": {
+    "id": "user1",
+    "name": "John Doe",
+    "email": "john@example.com",
+    "bookings": [
+      "1"
+    ]
+  }
+}
